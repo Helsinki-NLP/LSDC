@@ -8,7 +8,7 @@ Dialects from the following (modern or historical) regions are represented in th
 
 The texts used for this dataset belong to the following genres: administration, announcements and politics, fairytales and legends, (short) stories and (short) novels, songs and poetry, theatre plays, religious texts, meta-discussions about language (usually about Low Saxon) and discussions of history among others.
 
-In addition to the actual train and test data, the dataset also includes lists of Low Saxon placenames which originally were used to test the influence of placenames on dialect classification accuracy. 
+In addition to the actual train and test data, the dataset also includes lists of Low Saxon placenames which originally were used to test the influence of placenames on dialect classification accuracy. The placenames labelled as 'HOL' include places not only from Holstein but also from Schleswig.
 
 The data were split into sentences using NLTK's tokenize package and annotated according to century (19th, 20th or 21st) as well as dialect. The dialect annotation generally follows the information available about the original text sources. In addition, the test set was manually cleaned to remove sentences shorter than 4 words or written fully or mostly in languages other than Low Saxon such as German or Dutch. 
 
