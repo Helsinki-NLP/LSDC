@@ -18,6 +18,18 @@ When using these data for training practical applications, one needs to take int
 - The dialects from Mecklenburg-Vorpommern and Mark Brandenburg are only represented by data from the 19th century and therefore might not generalise well to more modern data. 
 - There is no common standard orthography for Low Saxon, and even though many regions have some form of writing traditions and various institutes have published spelling rules for the local dialect, average Low Saxon speakers might not adhere to these rules or traditions because they e.g. simply do not know them or they have other preferences. 
 
+Please, cite the following paper if you use data from this distribution:
+
+```
+@inproceedings{siewert2020,
+  title = {{LSDC – A comprehensive dataset for Low Saxon Dialect Classification}},
+  author = {Janine Siewert and Yves Scherrer and Martijn Wieling and J{\"o}rg Tiedemann},
+  booktitle = {Proceedings of the Seventh Workshop on {NLP} for Similar Languages, Varieties and Dialects},
+  publisher = {{COLING}},
+  year = {2020}
+}
+```
+
 ## License
 
 These data are released under this licensing scheme:
