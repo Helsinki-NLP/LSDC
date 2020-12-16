@@ -21,13 +21,19 @@ When using these data for training practical applications, one needs to take int
 Please, cite the following paper if you use data from this distribution:
 
 ```
-@inproceedings{siewert2020,
-  title = {{LSDC – A comprehensive dataset for Low Saxon Dialect Classification}},
-  author = {Janine Siewert and Yves Scherrer and Martijn Wieling and J{\"o}rg Tiedemann},
-  booktitle = {Proceedings of the Seventh Workshop on {NLP} for Similar Languages, Varieties and Dialects},
-  publisher = {{COLING}},
-  year = {2020}
+@inproceedings{siewert-etal-2020-lsdc,
+	abstract = "We present a new comprehensive dataset for the unstandardised West-Germanic language Low Saxon covering the last two centuries, the majority of modern dialects and various genres, which will be made openly available in connection with the final version of this paper. Since so far no such comprehensive dataset of contemporary Low Saxon exists, this provides a great contribution to NLP research on this language. We also test the use of this dataset for dialect classification by training a few baseline models comparing statistical and neural approaches. The performance of these models shows that in spite of an imbalance in the amount of data per dialect, enough features can be learned for a relatively high classification accuracy.",
+	address = "Barcelona, Spain (Online)",
+	author = "Siewert, Janine and Scherrer, Yves and Wieling, Martijn and Tiedemann, Jörg",
+	booktitle = "Proceedings of the 7th Workshop on NLP for Similar Languages, Varieties and Dialects",
+	month = dec,
+	pages = "25–35",
+	publisher = "International Committee on Computational Linguistics (ICCL)",
+	title = "{LSDC} - A comprehensive dataset for Low {S}axon Dialect Classification",
+	url = "https://www.aclweb.org/anthology/2020.vardial-1.3",
+	year = "2020"
 }
+
 ```
 
 ## License
