@@ -4,7 +4,7 @@ This dataset contains train and test data in 16 dialects or subdialects of Low S
 
 ## Description of the data 
 
-Dialects from the following (modern or historical) regions are represented in the dataset: Achterhoek (ACH), Drenthe (DRE), Groningen (GRO), Hamburg (HAM), Holstein (HOL), Mark Brandenburg (MAR), Mecklenburg-Vorpommern (MKB), Münsterland (MON), Northern Lower Saxony (NNI), Lower Prussia (NPR), Eastphalia (OFL), East Frisia (OFR), Western Overijssel (OVY), Eastern Westphalia (OWL), Sauerland (SUD) and Twente (TWE).
+Dialects from the following (modern or historical) regions are represented in the dataset: Achterhoek (ACH), Drenthe (DRE), Hamburg (HAM), Holstein (HOL), Mark Brandenburg (MAR), Mecklenburg-Vorpommern (MKB), Münsterland (MON), Northern Lower Saxony (NNI), Lower Prussia (NPR), Eastphalia (OFL), East Frisia (OFR), Western Overijssel (OVY), Eastern Westphalia (OWL), Sauerland (SUD) and Twente (TWE). The Groningen (GRO) data from the 21st century described in the article below is not included in this dataset, but the original sentences can be found in the issues 1–79 of the Kreuze magazine: http://www.kreuzekeuze.nl/kreuzewebstee/ofleverns.html
 
 The texts used for this dataset belong to the following genres: administration, announcements and politics, fairytales and legends, (short) stories and (short) novels, songs and poetry, theatre plays, religious texts, meta-discussions about language (usually about Low Saxon) and discussions of history among others.
 
